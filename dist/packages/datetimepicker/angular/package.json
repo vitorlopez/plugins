@@ -1,0 +1,14 @@
+{
+  "name": "nativescript-datetimepicker-angular",
+  "main": "bundles/nativescript-datetimepicker-angular.umd.js",
+  "module": "fesm2015/nativescript-datetimepicker-angular.js",
+  "es2015": "fesm2015/nativescript-datetimepicker-angular.js",
+  "esm2015": "esm2015/nativescript-datetimepicker-angular.js",
+  "fesm2015": "fesm2015/nativescript-datetimepicker-angular.js",
+  "typings": "nativescript-datetimepicker-angular.d.ts",
+  "metadata": "nativescript-datetimepicker-angular.metadata.json",
+  "sideEffects": false,
+  "dependencies": {
+    "tslib": "^2.2.0"
+  }
+}
